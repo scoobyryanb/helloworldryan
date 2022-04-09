@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Ryan's Corner</title>
+<title>Home</title>
 </head>
 <body>
-<h1>Welcome to my humble abode</h1>
+<h1>Home is a place for homies, so I welcome you.</h1>
 <br>
-<h2>Very spacious, no?</h2>
+<a href="index.jsp" id="login">Go To Login Page</a>
 </body>
 </html>
